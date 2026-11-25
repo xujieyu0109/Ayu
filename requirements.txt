@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+httpx
+qqmusic-api-python==0.8.2
